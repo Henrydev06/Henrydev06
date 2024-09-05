@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Serenia**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js**, **Python**
 
 - 🤝 I’m looking for help with **Web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Henrydev06](https://github.com/Henrydev06)
 
-- 💬 Ask me about **React,HTML5,CSS,JavaScript**
+- 💬 Ask me about **React,HTML5,CSS,JavaScript,Python**
 
 - 📫 How to reach me **Henrybarbosaprogrammer@gmail.com**
 

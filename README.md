@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henry Barbosa</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Serenia**
-
 - 🌱 I’m currently learning **React.js**, **Python**
 
 - 🤝 I’m looking for help with **Web development**
